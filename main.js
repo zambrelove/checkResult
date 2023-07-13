@@ -1,4 +1,4 @@
-function showResult(){
+function showResult(event){
     event.preventDefault();
     let percentage = document.getElementById("userValue").value;
     
